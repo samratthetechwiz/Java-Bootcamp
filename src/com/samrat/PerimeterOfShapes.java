@@ -40,6 +40,6 @@ public class PerimeterOfShapes {
                 break;
             }
         }
-        System.out.println("Area is " + perimeter);
+        System.out.println("Perimeter is " + perimeter);
     }
 }
